@@ -41,6 +41,12 @@ This dataset contains sensor data collected from various machines, intending to 
 
 <img src="Images\failure_distribution.png" alt="failure_distribution" width="520"/>
 
+## GUI
+
+<img src="Images\gui_1.png" alt="failure_distribution" width="520"/>
+
+<img src="Images\gui_2.png" alt="failure_distribution" width="520"/>
+
 ## Results
 
 ### Results with [Data](Data\data.csv)
@@ -100,4 +106,4 @@ This dataset contains sensor data collected from various machines, intending to 
 
 #### Correlation Matrix
 
-<img src="Images\reduced_correlation_matrix.png" alt="failure_distribution" width="600"/>    
+<img src="Images\reduced_correlation_matrix.png" alt="failure_distribution" width="600"/>
