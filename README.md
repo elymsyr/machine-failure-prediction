@@ -37,9 +37,9 @@ This dataset contains sensor data collected from various machines, intending to 
  - Temperature: The operating temperature of the machine.
  - fail: Binary indicator of machine failure (1 for failure, 0 for no failure).
 
-**Target: Fail**
+#### Target Distribution
 
-<img src="Images\failure_distribution.png" alt="failure_distribution" width="500"/>
+<img src="Images\failure_distribution.png" alt="failure_distribution" width="520"/>
 
 ## Results
 
@@ -65,13 +65,13 @@ This dataset contains sensor data collected from various machines, intending to 
     Best model: GradientBoosting with accuracy: 0.8888888888888888 
 ```
 
-**Feature Distribution**
+#### Feature Distribution
 
-<img src="Images\feature_distribution.png" alt="failure_distribution" width="500"/>
+<img src="Images\feature_distribution.png" alt="failure_distribution" width="700"/>
 
-**Correlation Matrix**
+#### Correlation Matrix
 
-<img src="Images\correlation_matrix.png" alt="failure_distribution" width="500"/>
+<img src="Images\correlation_matrix.png" alt="failure_distribution" width="600"/>
 
 ### Results with [Feature Reduced Data](Data\data_cleaned.csv)
  - Features: `AQ`  `USS`  `VOC` ` RP`  `IP`  `Temperature`  `fail`
@@ -94,10 +94,10 @@ This dataset contains sensor data collected from various machines, intending to 
 
     Best model: GradientBoosting with accuracy: 0.8888888888888888
 ```
-**Feature Distribution**
+#### Feature Distribution
 
-<img src="Images\reduced_feature_distribution.png" alt="failure_distribution" width="500"/>
+<img src="Images\reduced_feature_distribution.png" alt="failure_distribution" width="700"/>
 
-**Correlation Matrix**
+#### Correlation Matrix
 
-<img src="Images\reduced_correlation_matrix.png" alt="failure_distribution" width="500"/>    
+<img src="Images\reduced_correlation_matrix.png" alt="failure_distribution" width="600"/>    
