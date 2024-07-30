@@ -73,7 +73,7 @@ This dataset contains sensor data collected from various machines, intending to 
 
 #### Feature Distribution
 
-<img src="Images\feature_distribution.png" alt="failure_distribution" width="700"/>
+<img src="Images\feature_distribution.png" alt="failure_distribution" width="760"/>
 
 #### Correlation Matrix
 
@@ -102,7 +102,7 @@ This dataset contains sensor data collected from various machines, intending to 
 ```
 #### Feature Distribution
 
-<img src="Images\reduced_feature_distribution.png" alt="failure_distribution" width="700"/>
+<img src="Images\reduced_feature_distribution.png" alt="failure_distribution" width="760"/>
 
 #### Correlation Matrix
 
