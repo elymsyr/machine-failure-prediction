@@ -2,13 +2,10 @@
 
 This project involves creating a machine learning model to predict machine failure based on various features. The project is divided into several parts, including data visualization, model selection, model training, and creating a Tkinter-based application for real-time predictions.
 
- - [Data Link](https://www.kaggle.com/datasets/umerrtx/machine-failure-prediction-using-sensor-data)
- - [Model Selection with GridSearchCV Link](https://www.kaggle.com/code/muhammadfaizan65/machine-failure-prediction-eda-modeling)
-
 ## Project Overview
 
 1. **Data Visualization and Feature Selection**: Analyzes the dataset to visualize relationships and select the most relevant features.
-2. **Model Selection with GridSearchCV**: Determines the best model and hyperparameters using GridSearchCV.
+2. [**Model Selection with GridSearchCV**](https://www.kaggle.com/code/muhammadfaizan65/machine-failure-prediction-eda-modeling): Determines the best model and hyperparameters using GridSearchCV, from [Kaggle](https://www.kaggle.com/code/muhammadfaizan65/machine-failure-prediction-eda-modeling).
 3. **Model Training**: Trains a Gradient Boosting model with the selected features and parameters.
 4. **Tkinter Application**: Provides a graphical user interface (GUI) for real-time feature adjustments and predictions.
 
@@ -23,10 +20,10 @@ Install the required libraries using pip:
 pip install -r requirements.txt
 ```
 
-## Data
+## [Data](https://www.kaggle.com/datasets/umerrtx/machine-failure-prediction-using-sensor-data)
 
 ### Overview
-This dataset contains sensor data collected from various machines, intending to predict machine failures in advance. It includes a variety of sensor readings as well as recorded machine failures. Dataset has 944 row (1 repeated row.) and has no NaN values.
+This dataset contains sensor data collected from various machines, intending to predict machine failures in advance. It includes a variety of sensor readings as well as recorded machine failures. Dataset has 944 row (1 repeated row.) and has no NaN values, from [Kaggle](https://www.kaggle.com/datasets/umerrtx/machine-failure-prediction-using-sensor-data)
 
 ### Features
  - footfall: The number of people or objects passing by the machine.
