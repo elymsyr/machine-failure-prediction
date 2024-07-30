@@ -43,9 +43,9 @@ This dataset contains sensor data collected from various machines, intending to 
 
 ## GUI
 
-<img src="Images\gui_1.png" alt="failure_distribution" width="520"/>
+<img src="Images\gui_one.png" alt="failure_distribution" width="520"/>
 
-<img src="Images\gui_2.png" alt="failure_distribution" width="520"/>
+<img src="Images\gui_two.png" alt="failure_distribution" width="520"/>
 
 ## Results
 
