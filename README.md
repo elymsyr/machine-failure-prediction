@@ -39,7 +39,7 @@ This dataset contains sensor data collected from various machines, intending to 
 
 **Target: Fail**
 
-<img src="Images\failure_distribution.png" alt="failure_distribution" width="300"/>
+<img src="Images\failure_distribution.png" alt="failure_distribution" width="500"/>
 
 ## Results
 
@@ -67,11 +67,11 @@ This dataset contains sensor data collected from various machines, intending to 
 
 **Feature Distribution**
 
-<img src="Images\feature_distribution.png" alt="failure_distribution" width="300"/>
+<img src="Images\feature_distribution.png" alt="failure_distribution" width="500"/>
 
 **Correlation Matrix**
 
-<img src="Images\correlation_matrix.png" alt="failure_distribution" width="300"/>
+<img src="Images\correlation_matrix.png" alt="failure_distribution" width="500"/>
 
 ### Results with [Feature Reduced Data](Data\data_cleaned.csv)
  - Features: `AQ`  `USS`  `VOC` ` RP`  `IP`  `Temperature`  `fail`
@@ -96,8 +96,8 @@ This dataset contains sensor data collected from various machines, intending to 
 ```
 **Feature Distribution**
 
-<img src="Images\reduced_feature_distribution.png" alt="failure_distribution" width="300"/>
+<img src="Images\reduced_feature_distribution.png" alt="failure_distribution" width="500"/>
 
 **Correlation Matrix**
 
-<img src="Images\reduced_correlation_matrix.png" alt="failure_distribution" width="300"/>    
+<img src="Images\reduced_correlation_matrix.png" alt="failure_distribution" width="500"/>    
